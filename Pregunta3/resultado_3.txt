@@ -1,0 +1,866 @@
+Aardal Visa	1
+Aasgaardstrand Visa	1
+Abbey Town Visa	1
+Aberdeen Visa	2
+Abu Dhabi Diners	1
+Accokeek                     Amex	1
+Aix-en-Provence Visa	1
+Ajax Mastercard	1
+Al 'Adliyah Visa	1
+Alcobendas Visa	1
+Alcona Visa	1
+Alexandria                   Amex	1
+Alexandria                   Visa	1
+Allen                        Visa	1
+Alliston Visa	1
+Aloma                        Visa	1
+Alpharetta                   Amex	1
+Alpharetta                   Diners	1
+Alpharetta                   Visa	1
+Alpine                       Diners	1
+Altadena                     Visa	2
+Altlengbach Visa	1
+Amelia Island                Visa	1
+Amsterdam Mastercard	2
+Amsterdam Visa	1
+Anchorage                    Amex	1
+Anchorage                    Mastercard	1
+Anchorage                    Visa	1
+Andover                      Mastercard	1
+Anglesea Mastercard	1
+Anieres Visa	1
+Ankeny                       Visa	1
+Ann Arbor                    Visa	1
+Anse Comeau Visa	1
+Anthem                       Amex	1
+Antibes Visa	1
+Antwerpen Visa	1
+Arc-et-Senans Visa	1
+Arklow Visa	1
+Arlington                    Amex	2
+Arlington                    Mastercard	1
+Arlington                    Visa	3
+Ashburn                      Visa	1
+Ashford Amex	1
+Ashford Visa	1
+Astoria                      Mastercard	1
+Atascadero                   Amex	1
+Atchison                     Visa	1
+Athens                       Visa	1
+Athina Visa	1
+Atlanta                      Amex	2
+Atlanta Visa	1
+Atlantida Visa	1
+Aubonne Mastercard	1
+Auckland Visa	1
+Augusta                      Mastercard	1
+Austin                       Mastercard	1
+Austin                       Visa	3
+Avalon Mastercard	1
+Ayacucho Amex	1
+Baden Mastercard	1
+Badhoevedorp Mastercard	1
+Baile Atha Bui Mastercard	1
+Balgach Mastercard	1
+Ball Ground                  Mastercard	1
+Ballincollig Visa	2
+Ballyneety Visa	1
+Ballynora Diners	1
+Baltimore                    Visa	1
+Baluan Mastercard	1
+Ban Khlong Sip Mastercard	1
+Banbury Visa	1
+Bandon Visa	1
+Barcelona Amex	1
+Barcelona Visa	1
+Basauri Visa	1
+Basel Visa	1
+Basildon Mastercard	1
+Basingstoke Diners	1
+Baytown                      Visa	1
+Beachwood                    Mastercard	1
+Bedford Corners              Amex	1
+Begnins Mastercard	1
+Belfast Visa	1
+Belgrade                     Visa	1
+Belleville Visa	1
+Bellinzona Amex	1
+Belmont                      Mastercard	1
+Benoni Mastercard	1
+Bergen Diners	1
+Bergen Visa	1
+Berikon Visa	1
+Berkeswell Visa	1
+Berlin Mastercard	1
+Bern Visa	1
+Besancon Diners	1
+Beverly Hills                Visa	1
+Beykoz Visa	1
+Billings                     Visa	1
+Binningen Visa	1
+Biot Mastercard	1
+Birkdale Mastercard	1
+Birmingham                   Visa	1
+Birmingham Diners	1
+Bishop Auckland Visa	1
+Bishops Stortford Visa	1
+Black River Visa	1
+Blackpool Diners	1
+Blackrock Visa	1
+Blarney Visa	1
+Bloomfield                   Visa	1
+Bluffton                     Amex	1
+Boca Raton                   Amex	1
+Boise                        Diners	1
+Bolton Visa	2
+Borja Visa	1
+Bournemouth Mastercard	1
+Boyceville                   Visa	1
+Braunschweig Visa	1
+Brentwood                    Visa	1
+Bridgewater                  Mastercard	1
+Brighton Visa	1
+Brisbane Visa	2
+Bristol                      Visa	1
+Broadlands                   Visa	1
+Brondby Strand Mastercard	1
+Brookline                    Visa	1
+Brooklyn                     Amex	1
+Brooklyn                     Diners	2
+Brooklyn                     Mastercard	1
+Brulon Amex	1
+Brussels Mastercard	1
+Brussels Visa	2
+Bruxelles Amex	2
+Bruxelles Visa	1
+Bryceville                   Mastercard	1
+Bubuieci Visa	1
+Budaors Visa	1
+Buffalo                      Mastercard	1
+Buffalo Grove                Mastercard	2
+Bunbury Mastercard	1
+Burbank                      Diners	1
+Burnaby Diners	1
+Burpengary Visa	1
+Burr Oak                     Mastercard	1
+Cabinteely Mastercard	1
+Cagliari Mastercard	1
+Cahaba Heights               Visa	1
+Calgary Diners	1
+Calgary Mastercard	3
+Calgary Visa	7
+Calne Visa	1
+Cambridge                    Visa	1
+Campinas Mastercard	1
+Canterbury Mastercard	1
+Carcross Mastercard	1
+Cardiff Visa	1
+Carouge Visa	1
+Cartersburg                  Visa	1
+Cartierville Visa	1
+Castle Rock                  Mastercard	1
+Castlebar Visa	1
+Castleknock Visa	3
+Castricum Visa	1
+Centennial                   Mastercard	1
+Centennial                   Visa	1
+Centerport                   Amex	1
+Centurion Visa	1
+Chadds Ford                  Visa	1
+Chalfont Saint Peter Visa	1
+Chamonix-Mont-Blanc Visa	1
+Chandler                     Diners	1
+Chandler                     Visa	1
+Charlestown Amex	1
+Charlottenlund Visa	1
+Chaska                       Visa	1
+Chatou Visa	1
+Chelmsford                   Mastercard	1
+Cheltenham Mastercard	1
+Chepel Diners	1
+Chester                      Visa	1
+Chicago                      Amex	1
+Chicago                      Mastercard	1
+Chicago                      Visa	3
+Chichester Mastercard	1
+Chiefland                    Mastercard	1
+Chula Vista                  Visa	1
+Churra Visa	1
+Cincinnati                   Mastercard	1
+Cincinnati                   Visa	2
+Claygate Amex	1
+Clinton                      Mastercard	1
+Clondalkin Visa	1
+Clonmel Visa	1
+Clontarf Diners	1
+Clontarf Visa	1
+Clyde Hill                   Mastercard	1
+Cobham Visa	1
+Coconut Grove                Mastercard	2
+College Park                 Visa	1
+Columbus                     Visa	1
+Comox Visa	1
+Coomera Mastercard	1
+Coppell                      Mastercard	1
+Coral Gables                 Mastercard	1
+Corbin City                  Mastercard	1
+Cork Diners	2
+Cork Visa	2
+Cornwall Visa	1
+Corrales                     Visa	1
+Cos Cob                      Visa	1
+Coventry Mastercard	1
+Cranberry Twp                Amex	1
+Creemore Visa	1
+Croton On Hudson             Visa	1
+Cumming                      Amex	1
+Cypress                      Mastercard	1
+Dallas                       Visa	1
+Dammeron Valley              Visa	1
+Danderyd Amex	1
+Danville                     Amex	1
+Davis                        Visa	1
+Delray Beach                 Visa	1
+Den Haag Amex	1
+Den Haag Diners	1
+Den Haag Mastercard	7
+Deptford                     Mastercard	1
+Dickerson                    Visa	1
+Djurgarden Visa	1
+Donauworth Visa	1
+Downey                       Visa	1
+Downingtown                  Visa	1
+Dresden Mastercard	1
+Drogheda Visa	1
+Dryden                       Visa	1
+Dubai Visa	3
+Dumbleton Mastercard	1
+Dun Laoghaire Visa	1
+Durban Mastercard	1
+Durham                       Visa	1
+Eagan                        Visa	1
+Eagle                        Visa	1
+Echuca Visa	1
+Ede Visa	1
+Edgewood                     Visa	1
+Edinburg                     Visa	1
+Edinburgh Mastercard	1
+Edinburgh Visa	2
+Edmonton Amex	1
+Edmonton Mastercard	1
+Edmonton Visa	1
+Ehingen an der Donau Mastercard	1
+Eindhoven Amex	1
+El Escorial Visa	1
+Ely                          Amex	1
+Encinitas                    Amex	1
+Engleside                    Mastercard	1
+Englewood                    Mastercard	1
+Englewood                    Visa	1
+Escondido                    Visa	1
+Evires Mastercard	1
+Ewa Beach                    Mastercard	1
+Exeter Visa	1
+Fairbanks                    Visa	1
+Fairfax                      Visa	1
+Fairfield                    Mastercard	1
+Falmouth                     Visa	1
+Farmingtn Hls                Mastercard	1
+Farmington Visa	1
+Fayetteville                 Mastercard	1
+Fayetteville                 Visa	1
+Ferney-Voltaire Amex	1
+Ferney-Voltaire Visa	1
+Firenze Visa	1
+Florence Mastercard	1
+Flossmoor                    Visa	1
+Flower Mound                 Visa	1
+Floyds Knobs                 Mastercard	1
+Fort Lauderdale              Visa	2
+Fort Oglethorpe              Diners	1
+Fort Saint James Diners	1
+Fortaleza Mastercard	1
+Fountain Hls                 Amex	1
+Foxrock Visa	1
+Freeport City Visa	1
+Freienbach Visa	1
+Fremont                      Visa	1
+Fresno                       Mastercard	2
+Fresno                       Visa	1
+Fullerton                    Mastercard	1
+Gainesville                  Visa	1
+Gasperich Visa	1
+Gava Amex	1
+Gdansk Visa	1
+Geneve Mastercard	1
+Geneve Visa	1
+Genoa                        Mastercard	1
+George Town Mastercard	1
+Germantown                   Mastercard	1
+Gingins Diners	1
+Gisborne Visa	1
+Gladwyne                     Visa	1
+Glan-Munchweiler Mastercard	1
+Glendora                     Visa	1
+Glenn Dale                   Mastercard	1
+Glimmen Mastercard	1
+Gold Coast Visa	1
+Gonzaga Univ                 Visa	1
+Gorey Diners	1
+Gosport Visa	1
+Great Falls                  Mastercard	1
+Great Falls Visa	1
+Greenville                   Mastercard	1
+Gries Visa	1
+Griffith Mastercard	1
+Groningen Mastercard	1
+Grossbodungen Diners	1
+Grosseto Visa	1
+Guelph Visa	1
+Guer Amex	1
+Guildford Visa	1
+Gurgaon Amex	1
+Hagen Diners	1
+Hamburg Mastercard	1
+Hamilton Visa	2
+Hampton                      Diners	1
+Hannover Mastercard	1
+Harold's Cross Mastercard	1
+Haverhill Diners	1
+Hawera Visa	1
+Haymarket                    Mastercard	1
+Headley Mastercard	1
+Helens Bay Mastercard	1
+Hellerup Mastercard	1
+Helsingor Visa	1
+Hendersonville               Mastercard	1
+Herndon                      Amex	1
+Hghlnds Ranch                Visa	1
+High Wycombe Diners	1
+Hilton Head                  Mastercard	1
+Hilversum Visa	1
+Hofheim am Taunus Mastercard	1
+Hollywood                    Mastercard	1
+Holmdel                      Amex	1
+Holmenkollen Visa	1
+Holte Mastercard	1
+Hon                          Amex	1
+Hong Kong Mastercard	1
+Hono                         Diners	1
+Honolulu                     Mastercard	1
+Horten Visa	1
+Hoschton                     Diners	1
+Houston                      Amex	2
+Houston                      Mastercard	3
+Houston                      Visa	2
+Howell                       Mastercard	1
+Hradec Kralove Visa	1
+Huddersfield Diners	1
+Humble                       Visa	1
+Huntersville                 Visa	1
+Huntington                   Mastercard	1
+Huntington Beach             Mastercard	1
+Hyderabad Diners	1
+Ile-Perrot Mastercard	1
+Ingelheim-Mitte Visa	1
+Inner City Visa	1
+Irpin' Visa	1
+Irvine                       Mastercard	1
+Irving                       Mastercard	1
+Issaquah                     Amex	1
+Issaquah                     Visa	2
+Istanbul Visa	1
+Ithaca                       Diners	1
+Izmir Visa	1
+Jacksonville                 Visa	1
+Jamaica Plain                Amex	1
+Jamestown                    Visa	1
+Joppa Visa	2
+Julianstown Diners	1
+Jumeira Visa	2
+Kailua Kona                  Visa	1
+Kanata Visa	1
+Kapaa                        Visa	1
+Katy                         Visa	1
+Kearns                       Visa	1
+Kecskemet Mastercard	1
+Keller                       Mastercard	1
+Keller                       Visa	1
+Kelowna Diners	1
+Kelowna Visa	1
+Kemble Visa	1
+Kemerburgaz Visa	1
+Kenmore                      Visa	1
+Kennett Square               Visa	1
+Kidderminster Mastercard	1
+Kilcornan Visa	1
+Killarney Visa	1
+Killeen                      Mastercard	1
+Killiney Mastercard	1
+King City Visa	1
+Kinsaley Diners	1
+Kirriemuir Visa	2
+Kjobenhavn Visa	1
+Klampenborg Visa	1
+Klosterneuburg Mastercard	1
+Kloten Mastercard	1
+Knoxville                    Visa	2
+Kobenhavn Mastercard	1
+Kuala Lumpur Mastercard	1
+Kuopio Mastercard	1
+La Alberca Amex	1
+La Crescenta                 Mastercard	1
+La Louviere Visa	1
+Laasby Visa	1
+Ladera Ranch                 Visa	1
+Lafayette                    Mastercard	2
+Lahti Mastercard	1
+Lake Mahopac                 Mastercard	1
+Lake Ronkonkoma Mastercard	1
+Lakeside                     Mastercard	1
+Lakeville                    Mastercard	1
+Lakewood Village             Visa	1
+Langnau Visa	1
+Larchmont                    Visa	1
+Las Vegas                    Amex	2
+Las Vegas                    Diners	1
+Las Vegas                    Visa	1
+Lausanne Mastercard	1
+Lausanne Visa	1
+Leamington Spa Diners	1
+Lebanon                      Mastercard	1
+Leesburg                     Visa	1
+Leicester Visa	1
+Leighton Buzzard Visa	1
+Lemont                       Visa	1
+Lexington                    Visa	1
+Libertyville                 Visa	1
+Lidingo Amex	1
+Lincoln                      Mastercard	1
+Lindenhurst                  Mastercard	1
+Lindfield Visa	1
+Lipari Diners	3
+Lititz                       Visa	1
+Little Compton               Visa	1
+Little Silver                Amex	1
+Liverpool Visa	1
+London Amex	3
+London Diners	2
+London Mastercard	4
+London Visa	10
+Los Angeles                  Amex	2
+Los Angeles                  Visa	1
+Los Gatos                    Amex	1
+Los Gatos                    Visa	1
+Louisville                   Mastercard	1
+Lucca Diners	1
+Ludwigsburg Visa	1
+Lurgan Visa	1
+Lyndoch Visa	1
+Lyngby Mastercard	1
+MT Pleasant                  Diners	1
+Mableton                     Visa	1
+Madison                      Visa	1
+Madrid Mastercard	2
+Madrid Visa	1
+Mafra Amex	1
+Mahopac                      Mastercard	1
+Maidstone Visa	1
+Malahide Visa	1
+Malibu                       Amex	1
+Malmo Visa	1
+Manchester Visa	1
+Manhattan                    Visa	2
+Manteno                      Mastercard	1
+Maple Ridge District Municipality Visa	1
+Margate                      Visa	1
+Marietta                     Amex	2
+Marietta                     Visa	2
+Martin                       Mastercard	1
+Mashpee                      Visa	1
+Massagno Visa	1
+Mc Lean                      Visa	1
+Mechanics Grove              Visa	1
+Melbourne Amex	1
+Melbourne Mastercard	1
+Melbourne Visa	3
+Memphis                      Diners	1
+Mettlach Mastercard	1
+Miami                        Amex	1
+Miami                        Mastercard	1
+Miami                        Visa	1
+Miami Beach                  Amex	1
+Mickleton                    Visa	1
+Mid City West                Amex	1
+Midland Park                 Mastercard	1
+Milan Visa	2
+Milano Visa	2
+Milford                      Mastercard	1
+Mililani                     Amex	1
+Mililani                     Mastercard	1
+Milton Keynes Mastercard	1
+Milton Keynes Visa	1
+Minneapolis                  Mastercard	1
+Minneapolis                  Visa	2
+Mission Mastercard	1
+Mona Vale Visa	1
+Monaco Visa	1
+Monte-Carlo Visa	1
+Montgomery                   Mastercard	1
+Montreal Diners	2
+Montreal-Nord Visa	1
+Morges Mastercard	1
+Mornington Visa	1
+Morrison                     Diners	1
+Morrison                     Visa	1
+Morro Bay                    Visa	1
+Morton                       Visa	1
+Mount Forest Visa	1
+Mullingar Visa	1
+Munchen Amex	1
+Munchengosserstadt Visa	1
+Munich Mastercard	1
+Munich Visa	1
+Mushrif Amex	1
+N Java                       Visa	1
+N Woodmere                   Diners	1
+NYC                          Mastercard	1
+Naarden Amex	1
+Nacka Amex	1
+Nacka Visa	1
+Nadur Visa	1
+Nakskov Visa	2
+Naples                       Mastercard	1
+Nashville                    Mastercard	1
+Nashville                    Visa	2
+Navan Mastercard	1
+Nerang Visa	1
+Neuchatel Visa	1
+Neustift am Walde Mastercard	2
+New Malden Visa	1
+New Plymouth City Visa	1
+New Rochelle                 Mastercard	2
+New York                     Diners	3
+New York                     Mastercard	3
+New York                     Visa	3
+Newburgh Mastercard	1
+Newbury Mastercard	1
+Newcastle Visa	1
+Newmarket Mastercard	1
+Newton                       Visa	1
+Newtown                      Visa	1
+Norcross                     Visa	1
+Nordstrand Diners	1
+Norfolk                      Amex	1
+Norfolk                      Mastercard	1
+Norfolk                      Visa	1
+Norrkoping Visa	1
+North Bay Visa	2
+North Brunswick              Visa	1
+North Caldwell               Visa	1
+North Eastham                Visa	1
+North Tustin                 Visa	1
+North Vancouver Visa	1
+Norwalk                      Amex	1
+Oak Park                     Visa	1
+Oberwil Mastercard	1
+Oegstgeest Mastercard	1
+Okotoks Amex	1
+Okotoks Visa	1
+Old Greenwich                Mastercard	1
+Oldenburg Visa	1
+Olive Branch                 Visa	1
+Ooltewah                     Diners	1
+Oostburg                     Visa	1
+Orillia Mastercard	1
+Orlando                      Amex	1
+Ornex Visa	1
+Oslo Diners	1
+Oslo Visa	3
+Ottawa Amex	1
+Ottawa Hills                 Amex	1
+Ottawa Mastercard	1
+Ottawa Visa	2
+Overland                     Visa	1
+Owensboro                    Mastercard	1
+Owings Mills                 Visa	1
+Oxford Diners	1
+Oxford Mastercard	1
+Oxford Visa	1
+Pacific Beach                Mastercard	1
+Pacific Palisades            Mastercard	1
+Paris Diners	1
+Paris Visa	5
+Parkland                     Visa	1
+Parkville                    Visa	1
+Parramatta Visa	1
+Pasadena                     Mastercard	1
+Pembroke Pines               Visa	1
+Penclawdd Visa	1
+Penngrove                    Amex	1
+Pensacola                    Diners	1
+Peoria                       Mastercard	1
+Perth City Visa	1
+Perth Diners	1
+Perth Visa	3
+Petworth Visa	1
+Phoenix                      Mastercard	1
+Phoenix                      Visa	1
+Phuket Visa	1
+Pietermaritzburg Visa	1
+Pittsboro                    Visa	1
+Pittsfield                   Amex	2
+Plan-les-Ouattes Visa	1
+Plantation                   Visa	1
+Pls Vrds Est                 Visa	1
+Ponte San Nicolo Amex	1
+Portland                     Visa	1
+Porto Alegre Visa	1
+Portola Valley               Mastercard	1
+Potomac Falls                Amex	1
+Poughkeepsie                 Mastercard	1
+Powell River Mastercard	1
+Prague Visa	1
+Prince Albert Diners	1
+Princeton                    Mastercard	1
+Princeville                  Visa	1
+Pruszkow Visa	1
+Queen Creek                  Mastercard	2
+Rambouillet Visa	1
+Rancho Cordova               Visa	1
+Random Lake                  Visa	1
+Rathfarnham Mastercard	1
+Rathfarnham Visa	1
+Rathgar Mastercard	1
+Rayford                      Visa	1
+Reading Diners	1
+Reading Visa	1
+Red Deer Visa	1
+Redondo Beach                Amex	1
+Redruth Visa	1
+Regensdorf Visa	1
+Rennes Visa	1
+Reston                       Amex	1
+Reston                       Mastercard	1
+Richmond                     Visa	1
+Ridgefield                   Mastercard	1
+Ringgold                     Visa	1
+Riverside                    Visa	1
+Roanoke                      Mastercard	1
+Rochester                    Visa	1
+Rochester Hills              Visa	2
+Rock Hill                    Visa	1
+Rockingham Mastercard	1
+Rockville                    Amex	1
+Rockville                    Visa	1
+Rodeo                        Amex	1
+Rogers                       Visa	2
+Rome Visa	1
+Roodepoort Mastercard	1
+Roquefort Diners	1
+Rouen Visa	1
+Rowayton                     Amex	1
+Royal Oak                    Visa	2
+Rungsted Visa	2
+Ruschlikon Visa	1
+Ruti Visa	1
+Sacramento                   Visa	1
+Saddle Brook                 Visa	1
+Saffron Walden Diners	1
+Sag Harbor                   Diners	1
+Saggart Visa	1
+Saint Albans Visa	1
+Saint Catharines Visa	1
+Saint Charles                Visa	1
+Saint Paul                   Mastercard	1
+Saint Paul                   Visa	1
+Saint Petersburg             Amex	1
+Saint-Cergues Mastercard	1
+Sainte-Therese-de-Blainville Visa	1
+Salt Lake City               Diners	1
+Salt Lake City               Visa	1
+Saltsjobaden Mastercard	1
+Sammamish                    Mastercard	1
+San Anselmo                  Amex	1
+San Antonio                  Diners	1
+San Antonio                  Mastercard	1
+San Antonio                  Visa	1
+San Carlos                   Mastercard	1
+San Diego                    Amex	1
+San Diego                    Visa	2
+San Francisco                Amex	1
+San Francisco                Mastercard	1
+San Francisco                Visa	1
+San Jose                     Mastercard	1
+San Jose                     Visa	2
+San Mateo                    Amex	1
+San Pawl tat-Targa Visa	1
+San Ramon                    Visa	1
+Sandy Plains                 Amex	1
+Sandy Springs                Amex	1
+Sandymount Mastercard	1
+Santa Barbaraa Diners	1
+Santa Monica                 Diners	1
+Santo Domingo City Diners	1
+Santry Visa	1
+Saskatoon Amex	1
+Scamander Visa	1
+Scottsdale                   Mastercard	2
+Scottsdale                   Visa	1
+Seattle                      Amex	1
+Seattle                      Visa	5
+Sebastopol                   Visa	1
+Senatobia                    Visa	1
+Setagaya Visa	1
+Sevilla Mastercard	1
+Shankill Visa	1
+Shavano Park                 Mastercard	1
+Shenfield Visa	1
+Shorewood                    Diners	1
+Shreveport                   Mastercard	2
+Sidcup Mastercard	1
+Silver Spring                Visa	2
+Simcoe Mastercard	1
+Simpsonville                 Visa	1
+Sitka                        Visa	1
+Skaneateles                  Amex	1
+Slough Visa	1
+Sneem Visa	1
+Sola Mastercard	1
+Songnae-dong Visa	1
+Soro Visa	1
+South Jordan                 Visa	1
+South Melbourne Mastercard	1
+South Palm Beach             Amex	1
+South Waterford              Mastercard	1
+Southampton Mastercard	1
+Southlake                    Visa	1
+Spring Lake Park             Visa	1
+St Augustine                 Visa	1
+St Thomas                    Visa	1
+Stamford                     Amex	1
+Staten Island                Diners	1
+Staten Island                Visa	1
+Statesville                  Visa	1
+Stavanger Mastercard	1
+Stavanger Visa	1
+Stavenger Mastercard	1
+Sterling                     Visa	1
+Stockholm Mastercard	1
+Stocksund Visa	1
+Stockton Visa	1
+Stockton-on-Tees Visa	1
+Strasbourg Visa	1
+Stuttgart Diners	1
+Stuttgart Mastercard	1
+Stuttgart Visa	1
+Suchdol Visa	1
+Sugar Land                   Visa	1
+Sunnyvale                    Visa	2
+Superior                     Mastercard	1
+Sutton Diners	1
+Sutton Valence Visa	1
+Suwanee                      Mastercard	1
+Swampscott                   Mastercard	1
+Sydney Mastercard	2
+Sydney Visa	1
+Taby Mastercard	1
+Taicheng Visa	1
+Tel Aviv Mastercard	1
+Telgte Mastercard	1
+Temecula                     Amex	1
+Tenafly                      Amex	1
+Tenafly                      Diners	1
+Terrell Hills                Visa	1
+Tesvikiye Visa	1
+The Grange Visa	1
+The Woodlands                Mastercard	1
+Thorlakshofn Visa	1
+Three Hills Mastercard	1
+Thurles Visa	1
+Tierp Mastercard	1
+Tokyo Amex	1
+Torbay Visa	1
+Toronto Diners	1
+Toronto Mastercard	1
+Toronto Visa	4
+Tramore Visa	1
+Tranby Visa	1
+Trelex Visa	1
+Trumansburg                  Visa	1
+Tsaritsyno Amex	1
+Tsawwassen Visa	1
+Tunbridge Wells Mastercard	1
+Umea Visa	1
+Urlingford Diners	1
+Utrecht Mastercard	1
+Valley Center                Visa	1
+Vancouver Amex	1
+Vancouver Diners	1
+Vancouver Mastercard	3
+Vancouver Visa	3
+Vaucluse Diners	1
+Vecmilgravis Mastercard	1
+Veigy-Foncenex Mastercard	1
+Versoix Amex	1
+Vesenaz Mastercard	1
+Vespasiano Mastercard	1
+Vicenza Mastercard	1
+Victor                       Diners	1
+Vienna                       Visa	2
+Vienna Visa	1
+Villanova                    Amex	1
+Villars Mastercard	1
+Vista                        Visa	1
+Voluntari Mastercard	1
+Vossevangen Visa	1
+W Lebanon                    Mastercard	1
+Waiau Pa Visa	1
+Waiwera Visa	1
+WalcProduct3ee Mastercard	1
+Waldorf                      Mastercard	1
+Wall                         Diners	1
+Walnut Creek                 Mastercard	1
+Wantagh Visa	1
+Warlingham Mastercard	1
+Warwick                      Amex	1
+Warwick                      Visa	1
+Warwick Visa	2
+Washington                   Amex	1
+Washington                   Mastercard	1
+Washington                   Visa	1
+Washington Township          Mastercard	1
+Waterford Visa	2
+Watford Diners	1
+Watford Mastercard	1
+West Hills                   Diners	1
+West Orange                  Visa	1
+Westminster                  Visa	1
+Weston                       Visa	1
+Wheaton                      Visa	1
+White House                  Mastercard	1
+Wiesbaden Amex	1
+Wigan Visa	1
+Wilmington                   Mastercard	2
+Winchester                   Visa	1
+Winnipeg Mastercard	1
+Winter Haven                 Diners	1
+Winter Haven                 Mastercard	1
+Winter Spgs                  Amex	1
+Wisconsin Rapids             Diners	1
+Wollongong Visa	1
+Woodland Hills               Mastercard	1
+Woodsboro                    Visa	1
+Worcester Diners	1
+Worongary Mastercard	1
+Yellowknife Diners	1
+Yorba Linda                  Visa	1
+York Visa	2
+Zagore Mastercard	1
+Zekeriyakoy Visa	1
+Zug Amex	1
+Zug Mastercard	1
+Zumikon Visa	1
+Zurich Mastercard	1
+Zurich Visa	1
+sandhya 000"	1

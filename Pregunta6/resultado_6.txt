@@ -1,0 +1,865 @@
+Aardal,Visa,	1200
+Aasgaardstrand,Visa,	1200
+Abbey Town,Visa,	1200
+Aberdeen,Visa,	2400
+Abu Dhabi,Diners,	1200
+Accokeek                    ,Amex,	1200
+Aix-en-Provence,Visa,	1200
+Ajax,Mastercard,	1200
+Al 'Adliyah,Visa,	1200
+Alcobendas,Visa,	1200
+Alcona,Visa,	1200
+Alexandria                  ,Amex,	1200
+Alexandria                  ,Visa,	1200
+Allen                       ,Visa,	1200
+Alliston,Visa,	1200
+Aloma                       ,Visa,	1200
+Alpharetta                  ,Amex,	1200
+Alpharetta                  ,Diners,	1200
+Alpharetta                  ,Visa,	1200
+Alpine                      ,Diners,	1200
+Altadena                    ,Visa,	1450
+Altlengbach,Visa,	1200
+Amelia Island               ,Visa,	1200
+Amsterdam,Mastercard,	2400
+Amsterdam,Visa,	1200
+Anchorage                   ,Amex,	1200
+Anchorage                   ,Mastercard,	1200
+Anchorage                   ,Visa,	1200
+Andover                     ,Mastercard,	1200
+Anglesea,Mastercard,	1200
+Anieres,Visa,	1200
+Ankeny                      ,Visa,	1200
+Ann Arbor                   ,Visa,	3600
+Anse Comeau,Visa,	1200
+Anthem                      ,Amex,	1200
+Antibes,Visa,	1200
+Antwerpen,Visa,	1200
+Arc-et-Senans,Visa,	1200
+Arklow,Visa,	1200
+Arlington                   ,Amex,	2000
+Arlington                   ,Mastercard,	3600
+Arlington                   ,Visa,	3600
+Ashburn                     ,Visa,	1200
+Ashford,Amex,	1200
+Ashford,Visa,	1200
+Astoria                     ,Mastercard,	1200
+Atascadero                  ,Amex,	1200
+Atchison                    ,Visa,	1200
+Athens                      ,Visa,	1200
+Athina,Visa,	1200
+Atlanta                     ,Amex,	2400
+Atlanta,Visa,	1200
+Atlantida,Visa,	1200
+Aubonne,Mastercard,	1200
+Auckland,Visa,	1200
+Augusta                     ,Mastercard,	1200
+Austin                      ,Mastercard,	1200
+Austin                      ,Visa,	3600
+Avalon,Mastercard,	3600
+Ayacucho,Amex,	1200
+Baden,Mastercard,	1200
+Badhoevedorp,Mastercard,	1200
+Baile Atha Bui,Mastercard,	1200
+Balgach,Mastercard,	3600
+Ball Ground                 ,Mastercard,	1200
+Ballincollig,Visa,	2400
+Ballyneety,Visa,	1200
+Ballynora,Diners,	1200
+Baltimore                   ,Visa,	1200
+Baluan,Mastercard,	1200
+Ban Khlong Sip,Mastercard,	3600
+Banbury,Visa,	1200
+Bandon,Visa,	1200
+Barcelona,Amex,	1200
+Barcelona,Visa,	1200
+Basauri,Visa,	1200
+Basel,Visa,	1200
+Basildon,Mastercard,	1200
+Basingstoke,Diners,	1200
+Baytown                     ,Visa,	1200
+Beachwood                   ,Mastercard,	1200
+Bedford Corners             ,Amex,	1200
+Begnins,Mastercard,	3600
+Belfast,Visa,	1200
+Belgrade                    ,Visa,	1200
+Belleville,Visa,	1200
+Bellinzona,Amex,	3600
+Belmont                     ,Mastercard,	1200
+Benoni,Mastercard,	1200
+Bergen,Diners,	1200
+Bergen,Visa,	1200
+Berikon,Visa,	3600
+Berkeswell,Visa,	1200
+Berlin,Mastercard,	1200
+Bern,Visa,	3600
+Besancon,Diners,	1200
+Beverly Hills               ,Visa,	1200
+Beykoz,Visa,	1200
+Billings                    ,Visa,	1200
+Binningen,Visa,	3600
+Biot,Mastercard,	3600
+Birkdale,Mastercard,	1200
+Birmingham                  ,Visa,	1200
+Birmingham,Diners,	1200
+Bishop Auckland,Visa,	1200
+Bishops Stortford,Visa,	1200
+Black River,Visa,	3600
+Blackpool,Diners,	1200
+Blackrock,Visa,	1200
+Blarney,Visa,	1200
+Bloomfield                  ,Visa,	1200
+Bluffton                    ,Amex,	1200
+Boca Raton                  ,Amex,	1200
+Boise                       ,Diners,	1200
+Bolton,Visa,	2400
+Borja,Visa,	1200
+Bournemouth,Mastercard,	1200
+Boyceville                  ,Visa,	1200
+Braunschweig,Visa,	3600
+Brentwood                   ,Visa,	1200
+Bridgewater                 ,Mastercard,	1200
+Brighton,Visa,	1200
+Brisbane,Visa,	2400
+Bristol                     ,Visa,	1200
+Broadlands                  ,Visa,	1200
+Brondby Strand,Mastercard,	1200
+Brookline                   ,Visa,	1200
+Brooklyn                    ,Amex,	1200
+Brooklyn                    ,Diners,	2400
+Brooklyn                    ,Mastercard,	1200
+Brulon,Amex,	1200
+Brussels,Mastercard,	1200
+Brussels,Visa,	4800
+Bruxelles,Amex,	2400
+Bruxelles,Visa,	1200
+Bryceville                  ,Mastercard,	1200
+Bubuieci,Visa,	1200
+Budaors,Visa,	1200
+Buffalo                     ,Mastercard,	1200
+Buffalo Grove               ,Mastercard,	2400
+Bunbury,Mastercard,	3600
+Burbank                     ,Diners,	1200
+Burnaby,Diners,	1200
+Burpengary,Visa,	3600
+Burr Oak                    ,Mastercard,	1200
+Cabinteely,Mastercard,	1200
+Cagliari,Mastercard,	3600
+Cahaba Heights              ,Visa,	3600
+Calgary,Diners,	1200
+Calgary,Mastercard,	3600
+Calgary,Visa,	10800
+Calne,Visa,	1200
+Cambridge                   ,Visa,	1200
+Campinas,Mastercard,	7500
+Canterbury,Mastercard,	1200
+Carcross,Mastercard,	3600
+Cardiff,Visa,	1200
+Carouge,Visa,	3600
+Cartersburg                 ,Visa,	3600
+Cartierville,Visa,	1200
+Castle Rock                 ,Mastercard,	1200
+Castlebar,Visa,	1200
+Castleknock,Visa,	3600
+Castricum,Visa,	1200
+Centennial                  ,Mastercard,	1200
+Centennial                  ,Visa,	14200
+Centerport                  ,Amex,	1200
+Centurion,Visa,	1200
+Chadds Ford                 ,Visa,	1200
+Chalfont Saint Peter,Visa,	1200
+Chamonix-Mont-Blanc,Visa,	1200
+Chandler                    ,Diners,	1200
+Chandler                    ,Visa,	1200
+Charlestown,Amex,	1200
+Charlottenlund,Visa,	1200
+Chaska                      ,Visa,	1200
+Chatou,Visa,	1200
+Chelmsford                  ,Mastercard,	1200
+Cheltenham,Mastercard,	1200
+Chepel,Diners,	1200
+Chester                     ,Visa,	1200
+Chicago                     ,Amex,	3600
+Chicago                     ,Mastercard,	1200
+Chicago                     ,Visa,	3600
+Chichester,Mastercard,	1200
+Chiefland                   ,Mastercard,	1200
+Chula Vista                 ,Visa,	1200
+Churra,Visa,	1200
+Cincinnati                  ,Mastercard,	1200
+Cincinnati                  ,Visa,	2400
+Claygate,Amex,	1200
+Clinton                     ,Mastercard,	1200
+Clondalkin,Visa,	3600
+Clonmel,Visa,	1200
+Clontarf,Diners,	1200
+Clontarf,Visa,	1200
+Clyde Hill                  ,Mastercard,	3600
+Cobham,Visa,	1200
+Coconut Grove               ,Mastercard,	2400
+College Park                ,Visa,	1200
+Columbus                    ,Visa,	1200
+Comox,Visa,	1200
+Coomera,Mastercard,	1200
+Coppell                     ,Mastercard,	1200
+Coral Gables                ,Mastercard,	1200
+Corbin City                 ,Mastercard,	1200
+Cork,Diners,	4800
+Cork,Visa,	2400
+Cornwall,Visa,	1200
+Corrales                    ,Visa,	1200
+Cos Cob                     ,Visa,	1200
+Coventry,Mastercard,	1200
+Cranberry Twp               ,Amex,	3600
+Creemore,Visa,	1200
+Croton On Hudson            ,Visa,	1200
+Cumming                     ,Amex,	1200
+Cypress                     ,Mastercard,	1200
+Dallas                      ,Visa,	1200
+Dammeron Valley             ,Visa,	1200
+Danderyd,Amex,	1200
+Danville                    ,Amex,	1200
+Davis                       ,Visa,	3600
+Delray Beach                ,Visa,	3600
+Den Haag,Amex,	1200
+Den Haag,Diners,	1200
+Den Haag,Mastercard,	17100
+Deptford                    ,Mastercard,	1200
+Dickerson                   ,Visa,	1200
+Djurgarden,Visa,	1200
+Donauworth,Visa,	3600
+Downey                      ,Visa,	1200
+Downingtown                 ,Visa,	3600
+Dresden,Mastercard,	1200
+Drogheda,Visa,	1200
+Dryden                      ,Visa,	1200
+Dubai,Visa,	8400
+Dumbleton,Mastercard,	1200
+Dun Laoghaire,Visa,	1200
+Durban,Mastercard,	1200
+Durham                      ,Visa,	1200
+Eagan                       ,Visa,	3600
+Eagle                       ,Visa,	1200
+Echuca,Visa,	1200
+Ede,Visa,	3600
+Edgewood                    ,Visa,	1200
+Edinburg                    ,Visa,	1200
+Edinburgh,Mastercard,	1200
+Edinburgh,Visa,	2400
+Edmonton,Amex,	1200
+Edmonton,Mastercard,	1200
+Edmonton,Visa,	1200
+Ehingen an der Donau,Mastercard,	1200
+Eindhoven,Amex,	1200
+El Escorial,Visa,	1200
+Ely                         ,Amex,	1200
+Encinitas                   ,Amex,	1200
+Engleside                   ,Mastercard,	1200
+Englewood                   ,Mastercard,	3600
+Englewood                   ,Visa,	1200
+Escondido                   ,Visa,	1200
+Evires,Mastercard,	1200
+Ewa Beach                   ,Mastercard,	1200
+Exeter,Visa,	1200
+Fairbanks                   ,Visa,	1200
+Fairfax                     ,Visa,	1200
+Fairfield                   ,Mastercard,	1200
+Falmouth                    ,Visa,	1200
+Farmingtn Hls               ,Mastercard,	1200
+Farmington,Visa,	1200
+Fayetteville                ,Mastercard,	1200
+Fayetteville                ,Visa,	1200
+Ferney-Voltaire,Amex,	3600
+Ferney-Voltaire,Visa,	1200
+Firenze,Visa,	1200
+Florence,Mastercard,	1200
+Flossmoor                   ,Visa,	3600
+Flower Mound                ,Visa,	1200
+Floyds Knobs                ,Mastercard,	1200
+Fort Lauderdale             ,Visa,	2400
+Fort Oglethorpe             ,Diners,	1200
+Fort Saint James,Diners,	1200
+Fortaleza,Mastercard,	1200
+Fountain Hls                ,Amex,	1200
+Foxrock,Visa,	1200
+Freeport City,Visa,	1200
+Freienbach,Visa,	1200
+Fremont                     ,Visa,	1200
+Fresno                      ,Mastercard,	8700
+Fresno                      ,Visa,	1200
+Fullerton                   ,Mastercard,	1200
+Gainesville                 ,Visa,	1200
+Gasperich,Visa,	1200
+Gava,Amex,	3600
+Gdansk,Visa,	1200
+Geneve,Mastercard,	1200
+Geneve,Visa,	1200
+Genoa                       ,Mastercard,	1200
+George Town,Mastercard,	1200
+Germantown                  ,Mastercard,	1200
+Gingins,Diners,	1200
+Gisborne,Visa,	3600
+Gladwyne                    ,Visa,	1200
+Glan-Munchweiler,Mastercard,	1200
+Glendora                    ,Visa,	1200
+Glenn Dale                  ,Mastercard,	1200
+Glimmen,Mastercard,	1200
+Gold Coast,Visa,	1200
+Gonzaga Univ                ,Visa,	1200
+Gorey,Diners,	1200
+Gosport,Visa,	1200
+Great Falls                 ,Mastercard,	1200
+Great Falls,Visa,	1200
+Greenville                  ,Mastercard,	1200
+Gries,Visa,	1200
+Griffith,Mastercard,	1200
+Groningen,Mastercard,	1200
+Grossbodungen,Diners,	1200
+Grosseto,Visa,	1200
+Guelph,Visa,	1200
+Guer,Amex,	1200
+Guildford,Visa,	3600
+Gurgaon,Amex,	1200
+Hagen,Diners,	1200
+Hamburg,Mastercard,	1200
+Hamilton,Visa,	2400
+Hampton                     ,Diners,	1200
+Hannover,Mastercard,	1200
+Harold's Cross,Mastercard,	1200
+Haverhill,Diners,	1200
+Hawera,Visa,	1200
+Haymarket                   ,Mastercard,	1200
+Headley,Mastercard,	1200
+Helens Bay,Mastercard,	1200
+Hellerup,Mastercard,	1200
+Helsingor,Visa,	1200
+Hendersonville              ,Mastercard,	1200
+Herndon                     ,Amex,	1200
+Hghlnds Ranch               ,Visa,	1200
+High Wycombe,Diners,	1200
+Hilton Head                 ,Mastercard,	3600
+Hilversum,Visa,	3600
+Hofheim am Taunus,Mastercard,	1200
+Hollywood                   ,Mastercard,	1200
+Holmdel                     ,Amex,	1200
+Holmenkollen,Visa,	1200
+Holte,Mastercard,	1200
+Hon                         ,Amex,	1200
+Hong Kong,Mastercard,	1200
+Hono                        ,Diners,	1200
+Honolulu                    ,Mastercard,	1200
+Horten,Visa,	1200
+Hoschton                    ,Diners,	1200
+Houston                     ,Amex,	2400
+Houston                     ,Mastercard,	3600
+Houston                     ,Visa,	2400
+Howell                      ,Mastercard,	1200
+Hradec Kralove,Visa,	1200
+Huddersfield,Diners,	3600
+Humble                      ,Visa,	1200
+Huntersville                ,Visa,	1200
+Huntington                  ,Mastercard,	1200
+Huntington Beach            ,Mastercard,	3600
+Hyderabad,Diners,	1200
+Ile-Perrot,Mastercard,	1200
+Ingelheim-Mitte,Visa,	1200
+Inner City,Visa,	1200
+Irpin',Visa,	1200
+Irvine                      ,Mastercard,	3600
+Irving                      ,Mastercard,	1200
+Issaquah                    ,Amex,	1200
+Issaquah                    ,Visa,	4800
+Istanbul,Visa,	1200
+Ithaca                      ,Diners,	1200
+Izmir,Visa,	1200
+Jacksonville                ,Visa,	3600
+Jamaica Plain               ,Amex,	1200
+Jamestown                   ,Visa,	1200
+Joppa,Visa,	2400
+Julianstown,Diners,	1200
+Jumeira,Visa,	2400
+Kailua Kona                 ,Visa,	1200
+Kanata,Visa,	1200
+Kapaa                       ,Visa,	1200
+Katy                        ,Visa,	3600
+Kearns                      ,Visa,	7500
+Kecskemet,Mastercard,	1200
+Keller                      ,Mastercard,	1200
+Keller                      ,Visa,	1200
+Kelowna,Diners,	1200
+Kelowna,Visa,	1200
+Kemble,Visa,	1200
+Kemerburgaz,Visa,	1200
+Kenmore                     ,Visa,	1200
+Kennett Square              ,Visa,	1200
+Kidderminster,Mastercard,	1200
+Kilcornan,Visa,	1200
+Killarney,Visa,	1200
+Killeen                     ,Mastercard,	3600
+Killiney,Mastercard,	1200
+King City,Visa,	1200
+Kinsaley,Diners,	1200
+Kirriemuir,Visa,	7200
+Kjobenhavn,Visa,	1200
+Klampenborg,Visa,	1200
+Klosterneuburg,Mastercard,	1200
+Kloten,Mastercard,	3600
+Knoxville                   ,Visa,	8700
+Kobenhavn,Mastercard,	1200
+Kuala Lumpur,Mastercard,	1200
+Kuopio,Mastercard,	1200
+La Alberca,Amex,	1200
+La Crescenta                ,Mastercard,	1200
+La Louviere,Visa,	1200
+Laasby,Visa,	1200
+Ladera Ranch                ,Visa,	1200
+Lafayette                   ,Mastercard,	2400
+Lahti,Mastercard,	1200
+Lake Mahopac                ,Mastercard,	1200
+Lake Ronkonkoma,Mastercard,	1200
+Lakeside                    ,Mastercard,	1200
+Lakeville                   ,Mastercard,	1200
+Lakewood Village            ,Visa,	1200
+Langnau,Visa,	3600
+Larchmont                   ,Visa,	1200
+Las Vegas                   ,Amex,	2400
+Las Vegas                   ,Diners,	1200
+Las Vegas                   ,Visa,	1200
+Lausanne,Mastercard,	3600
+Lausanne,Visa,	3600
+Leamington Spa,Diners,	1200
+Lebanon                     ,Mastercard,	1200
+Leesburg                    ,Visa,	1200
+Leicester,Visa,	1200
+Leighton Buzzard,Visa,	1200
+Lemont                      ,Visa,	1200
+Lexington                   ,Visa,	1200
+Libertyville                ,Visa,	1200
+Lidingo,Amex,	3600
+Lincoln                     ,Mastercard,	1200
+Lindenhurst                 ,Mastercard,	1200
+Lindfield,Visa,	1200
+Lipari,Diners,	16200
+Lititz                      ,Visa,	1200
+Little Compton              ,Visa,	1200
+Little Silver               ,Amex,	1200
+Liverpool,Visa,	1200
+London,Amex,	3600
+London,Diners,	2400
+London,Mastercard,	7200
+London,Visa,	16800
+Los Angeles                 ,Amex,	4800
+Los Angeles                 ,Visa,	3600
+Los Gatos                   ,Amex,	1200
+Los Gatos                   ,Visa,	1200
+Louisville                  ,Mastercard,	1200
+Lucca,Diners,	1200
+Ludwigsburg,Visa,	1200
+Lurgan,Visa,	1200
+Lyndoch,Visa,	1200
+Lyngby,Mastercard,	1200
+MT Pleasant                 ,Diners,	1200
+Mableton                    ,Visa,	3600
+Madison                     ,Visa,	1200
+Madrid,Mastercard,	2400
+Madrid,Visa,	1200
+Mafra,Amex,	1200
+Mahopac                     ,Mastercard,	2100
+Maidstone,Visa,	1200
+Malahide,Visa,	1200
+Malibu                      ,Amex,	1200
+Malmo,Visa,	3600
+Manchester,Visa,	1200
+Manhattan                   ,Visa,	2400
+Manteno                     ,Mastercard,	1200
+Maple Ridge District Municipality,Visa,	1200
+Margate                     ,Visa,	1200
+Marietta                    ,Amex,	3000
+Marietta                    ,Visa,	2400
+Martin                      ,Mastercard,	1200
+Mashpee                     ,Visa,	1200
+Massagno,Visa,	1200
+Mc Lean                     ,Visa,	1200
+Mechanics Grove             ,Visa,	1200
+Melbourne,Amex,	1200
+Melbourne,Mastercard,	1200
+Melbourne,Visa,	3600
+Memphis                     ,Diners,	1200
+Mettlach,Mastercard,	1200
+Miami                       ,Amex,	3600
+Miami                       ,Mastercard,	1200
+Miami                       ,Visa,	1200
+Miami Beach                 ,Amex,	1200
+Mickleton                   ,Visa,	1200
+Mid City West               ,Amex,	1200
+Midland Park                ,Mastercard,	1200
+Milan,Visa,	2400
+Milano,Visa,	4800
+Milford                     ,Mastercard,	1200
+Mililani                    ,Amex,	3600
+Mililani                    ,Mastercard,	1200
+Milton Keynes,Mastercard,	1200
+Milton Keynes,Visa,	1200
+Minneapolis                 ,Mastercard,	1200
+Minneapolis                 ,Visa,	2400
+Mission,Mastercard,	3600
+Mona Vale,Visa,	3600
+Monaco,Visa,	1200
+Monte-Carlo,Visa,	1200
+Montgomery                  ,Mastercard,	1200
+Montreal,Diners,	2400
+Montreal-Nord,Visa,	1200
+Morges,Mastercard,	1200
+Mornington,Visa,	1200
+Morrison                    ,Diners,	1200
+Morrison                    ,Visa,	1200
+Morro Bay                   ,Visa,	1200
+Morton                      ,Visa,	1200
+Mount Forest,Visa,	1200
+Mullingar,Visa,	1200
+Munchen,Amex,	1200
+Munchengosserstadt,Visa,	1200
+Munich,Mastercard,	3600
+Munich,Visa,	1200
+Mushrif,Amex,	1200
+N Java                      ,Visa,	1200
+N Woodmere                  ,Diners,	1200
+NYC                         ,Mastercard,	1200
+Naarden,Amex,	1200
+Nacka,Amex,	1200
+Nacka,Visa,	1200
+Nadur,Visa,	1200
+Nakskov,Visa,	2400
+Naples                      ,Mastercard,	1200
+Nashville                   ,Mastercard,	1200
+Nashville                   ,Visa,	2400
+Navan,Mastercard,	7500
+Nerang,Visa,	1200
+Neuchatel,Visa,	1200
+Neustift am Walde,Mastercard,	2400
+New Malden,Visa,	3600
+New Plymouth City,Visa,	1200
+New Rochelle                ,Mastercard,	2400
+New York                    ,Diners,	3600
+New York                    ,Mastercard,	3600
+New York                    ,Visa,	8400
+Newburgh,Mastercard,	1200
+Newbury,Mastercard,	1200
+Newcastle,Visa,	1200
+Newmarket,Mastercard,	1200
+Newton                      ,Visa,	1200
+Newtown                     ,Visa,	1200
+Norcross                    ,Visa,	1200
+Nordstrand,Diners,	1200
+Norfolk                     ,Amex,	1200
+Norfolk                     ,Mastercard,	1200
+Norfolk                     ,Visa,	1200
+Norrkoping,Visa,	3600
+North Bay,Visa,	4800
+North Brunswick             ,Visa,	1200
+North Caldwell              ,Visa,	1200
+North Eastham               ,Visa,	1200
+North Tustin                ,Visa,	1200
+North Vancouver,Visa,	1200
+Norwalk                     ,Amex,	1200
+Oak Park                    ,Visa,	1200
+Oberwil,Mastercard,	1200
+Oegstgeest,Mastercard,	3600
+Okotoks,Amex,	3600
+Okotoks,Visa,	1200
+Old Greenwich               ,Mastercard,	1200
+Oldenburg,Visa,	1200
+Olive Branch                ,Visa,	7500
+Ooltewah                    ,Diners,	1200
+Oostburg                    ,Visa,	1200
+Orillia,Mastercard,	1200
+Orlando                     ,Amex,	3600
+Ornex,Visa,	1200
+Oslo,Diners,	1200
+Oslo,Visa,	6000
+Ottawa Hills                ,Amex,	1200
+Ottawa,Amex,	1200
+Ottawa,Mastercard,	1200
+Ottawa,Visa,	4800
+Overland                    ,Visa,	3600
+Owensboro                   ,Mastercard,	1200
+Owings Mills                ,Visa,	1200
+Oxford,Diners,	1200
+Oxford,Mastercard,	1200
+Oxford,Visa,	1200
+Pacific Beach               ,Mastercard,	1200
+Pacific Palisades           ,Mastercard,	1200
+Paris,Diners,	1200
+Paris,Visa,	13200
+Parkland                    ,Visa,	1200
+Parkville                   ,Visa,	1200
+Parramatta,Visa,	1200
+Pasadena                    ,Mastercard,	1200
+Pembroke Pines              ,Visa,	1200
+Penclawdd,Visa,	3600
+Penngrove                   ,Amex,	3600
+Pensacola                   ,Diners,	3600
+Peoria                      ,Mastercard,	1200
+Perth City,Visa,	1200
+Perth,Diners,	3600
+Perth,Visa,	3600
+Petworth,Visa,	1200
+Phoenix                     ,Mastercard,	3600
+Phoenix                     ,Visa,	1200
+Phuket,Visa,	1200
+Pietermaritzburg,Visa,	7500
+Pittsboro                   ,Visa,	1200
+Pittsfield                  ,Amex,	7200
+Plan-les-Ouattes,Visa,	1200
+Plantation                  ,Visa,	3600
+Pls Vrds Est                ,Visa,	1200
+Ponte San Nicolo,Amex,	3600
+Portland                    ,Visa,	1200
+Porto Alegre,Visa,	1200
+Portola Valley              ,Mastercard,	3600
+Potomac Falls               ,Amex,	1200
+Poughkeepsie                ,Mastercard,	1200
+Powell River,Mastercard,	3600
+Prague,Visa,	3600
+Prince Albert,Diners,	3600
+Princeton                   ,Mastercard,	1200
+Princeville                 ,Visa,	1200
+Pruszkow,Visa,	1200
+Queen Creek                 ,Mastercard,	2450
+Rambouillet,Visa,	1200
+Rancho Cordova              ,Visa,	1200
+Random Lake                 ,Visa,	1200
+Rathfarnham,Mastercard,	1200
+Rathfarnham,Visa,	1200
+Rathgar,Mastercard,	1200
+Rayford                     ,Visa,	1200
+Reading,Diners,	1200
+Reading,Visa,	1200
+Red Deer,Visa,	1200
+Redondo Beach               ,Amex,	1200
+Redruth,Visa,	1200
+Regensdorf,Visa,	1200
+Rennes,Visa,	7500
+Reston                      ,Amex,	1200
+Reston                      ,Mastercard,	1200
+Richmond                    ,Visa,	1200
+Ridgefield                  ,Mastercard,	1200
+Ringgold                    ,Visa,	1200
+Riverside                   ,Visa,	1200
+Roanoke                     ,Mastercard,	1200
+Rochester                   ,Visa,	1200
+Rochester Hills             ,Visa,	2400
+Rock Hill                   ,Visa,	1200
+Rockingham,Mastercard,	1200
+Rockville                   ,Amex,	1200
+Rockville                   ,Visa,	1200
+Rodeo                       ,Amex,	1200
+Rogers                      ,Visa,	8700
+Rome,Visa,	1200
+Roodepoort,Mastercard,	1200
+Roquefort,Diners,	1200
+Rouen,Visa,	1200
+Rowayton                    ,Amex,	1200
+Royal Oak                   ,Visa,	2400
+Rungsted,Visa,	2400
+Ruschlikon,Visa,	1200
+Ruti,Visa,	1200
+Sacramento                  ,Visa,	1200
+Saddle Brook                ,Visa,	1200
+Saffron Walden,Diners,	1200
+Sag Harbor                  ,Diners,	1200
+Saggart,Visa,	1200
+Saint Albans,Visa,	1200
+Saint Catharines,Visa,	1200
+Saint Charles               ,Visa,	1200
+Saint Paul                  ,Mastercard,	3600
+Saint Paul                  ,Visa,	3600
+Saint Petersburg            ,Amex,	1200
+Saint-Cergues,Mastercard,	3600
+Sainte-Therese-de-Blainville,Visa,	1200
+Salt Lake City              ,Diners,	1200
+Salt Lake City              ,Visa,	1200
+Saltsjobaden,Mastercard,	1200
+Sammamish                   ,Mastercard,	1200
+San Anselmo                 ,Amex,	3600
+San Antonio                 ,Diners,	1200
+San Antonio                 ,Mastercard,	1200
+San Antonio                 ,Visa,	1200
+San Carlos                  ,Mastercard,	1200
+San Diego                   ,Amex,	1200
+San Diego                   ,Visa,	2400
+San Francisco               ,Amex,	1200
+San Francisco               ,Mastercard,	1200
+San Francisco               ,Visa,	1200
+San Jose                    ,Mastercard,	1200
+San Jose                    ,Visa,	4800
+San Mateo                   ,Amex,	1200
+San Pawl tat-Targa,Visa,	3600
+San Ramon                   ,Visa,	3600
+Sandy Plains                ,Amex,	1200
+Sandy Springs               ,Amex,	1200
+Sandymount,Mastercard,	1200
+Santa Barbaraa,Diners,	1200
+Santa Monica                ,Diners,	1200
+Santo Domingo City,Diners,	1200
+Santry,Visa,	1200
+Saskatoon,Amex,	3600
+Scamander,Visa,	3600
+Scottsdale                  ,Mastercard,	7200
+Scottsdale                  ,Visa,	1200
+Seattle                     ,Amex,	1200
+Seattle                     ,Visa,	8400
+Sebastopol                  ,Visa,	3600
+Senatobia                   ,Visa,	3600
+Setagaya,Visa,	1200
+Sevilla,Mastercard,	1200
+Shankill,Visa,	1200
+Shavano Park                ,Mastercard,	1200
+Shenfield,Visa,	1200
+Shorewood                   ,Diners,	1200
+Shreveport                  ,Mastercard,	8700
+Sidcup,Mastercard,	1200
+Silver Spring               ,Visa,	4800
+Simcoe,Mastercard,	1200
+Simpsonville                ,Visa,	1200
+Sitka                       ,Visa,	3600
+Skaneateles                 ,Amex,	7500
+Slough,Visa,	1200
+Sneem,Visa,	1200
+Sola,Mastercard,	1200
+Songnae-dong,Visa,	1200
+Soro,Visa,	1200
+South Jordan                ,Visa,	1200
+South Melbourne,Mastercard,	1200
+South Palm Beach            ,Amex,	1200
+South Waterford             ,Mastercard,	1200
+Southampton,Mastercard,	1200
+Southlake                   ,Visa,	1200
+Spring Lake Park            ,Visa,	1200
+St Augustine                ,Visa,	1200
+St Thomas                   ,Visa,	3600
+Stamford                    ,Amex,	1200
+Staten Island               ,Diners,	1200
+Staten Island               ,Visa,	1200
+Statesville                 ,Visa,	1200
+Stavanger,Mastercard,	1200
+Stavanger,Visa,	1200
+Stavenger,Mastercard,	1200
+Sterling                    ,Visa,	3600
+Stockholm,Mastercard,	1200
+Stocksund,Visa,	1200
+Stockton,Visa,	1200
+Stockton-on-Tees,Visa,	1200
+Strasbourg,Visa,	1200
+Stuttgart,Diners,	1200
+Stuttgart,Mastercard,	1200
+Stuttgart,Visa,	1200
+Suchdol,Visa,	1200
+Sugar Land                  ,Visa,	1200
+Sunnyvale                   ,Visa,	2400
+Superior                    ,Mastercard,	1200
+Sutton Valence,Visa,	1200
+Sutton,Diners,	1200
+Suwanee                     ,Mastercard,	1200
+Swampscott                  ,Mastercard,	3600
+Sydney,Mastercard,	4800
+Sydney,Visa,	1200
+Taby,Mastercard,	1200
+Taicheng,Visa,	1200
+Tel Aviv,Mastercard,	1200
+Telgte,Mastercard,	3600
+Temecula                    ,Amex,	3600
+Tenafly                     ,Amex,	1200
+Tenafly                     ,Diners,	1200
+Terrell Hills               ,Visa,	1200
+Tesvikiye,Visa,	1200
+The Grange,Visa,	1200
+The Woodlands               ,Mastercard,	1200
+Thorlakshofn,Visa,	1200
+Three Hills,Mastercard,	1200
+Thurles,Visa,	1200
+Tierp,Mastercard,	1200
+Tokyo,Amex,	1200
+Torbay,Visa,	1200
+Toronto,Diners,	1200
+Toronto,Mastercard,	3600
+Toronto,Visa,	12000
+Tramore,Visa,	1200
+Tranby,Visa,	1200
+Trelex,Visa,	3600
+Trumansburg                 ,Visa,	1200
+Tsaritsyno,Amex,	3600
+Tsawwassen,Visa,	1200
+Tunbridge Wells,Mastercard,	3600
+Umea,Visa,	1200
+Urlingford,Diners,	1200
+Utrecht,Mastercard,	3600
+Valley Center               ,Visa,	7500
+Vancouver,Amex,	1200
+Vancouver,Diners,	1200
+Vancouver,Mastercard,	6000
+Vancouver,Visa,	3600
+Vaucluse,Diners,	1200
+Vecmilgravis,Mastercard,	1200
+Veigy-Foncenex,Mastercard,	1200
+Versoix,Amex,	1200
+Vesenaz,Mastercard,	1200
+Vespasiano,Mastercard,	1200
+Vicenza,Mastercard,	1200
+Victor                      ,Diners,	1200
+Vienna                      ,Visa,	2400
+Vienna,Visa,	1200
+Villanova                   ,Amex,	3600
+Villars,Mastercard,	1200
+Vista                       ,Visa,	1200
+Voluntari,Mastercard,	1200
+Vossevangen,Visa,	1200
+W Lebanon                   ,Mastercard,	1200
+Waiau Pa,Visa,	1200
+Waiwera,Visa,	1200
+WalcProduct3ee,Mastercard,	3600
+Waldorf                     ,Mastercard,	1200
+Wall                        ,Diners,	1200
+Walnut Creek                ,Mastercard,	1200
+Wantagh,Visa,	1200
+Warlingham,Mastercard,	1200
+Warwick                     ,Amex,	1200
+Warwick                     ,Visa,	1200
+Warwick,Visa,	2400
+Washington                  ,Amex,	1200
+Washington                  ,Mastercard,	3600
+Washington                  ,Visa,	1200
+Washington Township         ,Mastercard,	1200
+Waterford,Visa,	2400
+Watford,Diners,	1200
+Watford,Mastercard,	1200
+West Hills                  ,Diners,	1200
+West Orange                 ,Visa,	1200
+Westminster                 ,Visa,	1200
+Weston                      ,Visa,	1200
+Wheaton                     ,Visa,	1200
+White House                 ,Mastercard,	1200
+Wiesbaden,Amex,	3600
+Wigan,Visa,	1200
+Wilmington                  ,Mastercard,	2400
+Winchester                  ,Visa,	1200
+Winnipeg,Mastercard,	1200
+Winter Haven                ,Diners,	3600
+Winter Haven                ,Mastercard,	1200
+Winter Spgs                 ,Amex,	1200
+Wisconsin Rapids            ,Diners,	1200
+Wollongong,Visa,	1200
+Woodland Hills              ,Mastercard,	1200
+Woodsboro                   ,Visa,	1200
+Worcester,Diners,	1200
+Worongary,Mastercard,	1200
+Yellowknife,Diners,	1200
+Yorba Linda                 ,Visa,	1200
+York,Visa,	2400
+Zagore,Mastercard,	1200
+Zekeriyakoy,Visa,	1200
+Zug,Amex,	1200
+Zug,Mastercard,	3600
+Zumikon,Visa,	1200
+Zurich,Mastercard,	1200
+Zurich,Visa,	3600

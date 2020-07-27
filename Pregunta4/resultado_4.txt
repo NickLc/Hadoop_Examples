@@ -1,0 +1,347 @@
+  Diners	1
+  Mastercard	2
+  Visa	5
+ Amex	1
+AK Amex	1
+AK Mastercard	1
+AK Visa	3
+AL Visa	1
+AR Visa	3
+AZ Amex	2
+AZ Diners	1
+AZ Mastercard	4
+AZ Visa	3
+Aargau Mastercard	1
+Aargau Visa	1
+Abu Zaby Diners	1
+Al Manamah Visa	1
+Alberta Amex	2
+Alberta Diners	1
+Alberta Mastercard	5
+Alberta Visa	10
+Alsace Visa	1
+Andalucia Mastercard	1
+Andhra Pradesh Diners	1
+Antwerpen Visa	1
+Arhus Visa	1
+Attiki Visa	1
+Auckland Visa	4
+Bacs-Kiskun Mastercard	1
+Baden-Wurttemberg Diners	1
+Baden-Wurttemberg Mastercard	2
+Baden-Wurttemberg Visa	2
+Basel-Country Mastercard	1
+Basel-Country Visa	1
+Basel-Town Visa	1
+Bayern Amex	1
+Bayern Mastercard	1
+Bayern Visa	2
+Berlin Mastercard	1
+Bern Visa	1
+Black River Visa	1
+Bohol Visa	1
+British Columbia Amex	1
+British Columbia Diners	4
+British Columbia Mastercard	5
+British Columbia Visa	8
+Brittany Amex	1
+Brittany Visa	1
+Brussels (Bruxelles) Amex	2
+Brussels (Bruxelles) Mastercard	1
+Brussels (Bruxelles) Visa	3
+Bucuresti Mastercard	1
+Budapest Diners	1
+Buenos Aires Amex	1
+Buskerud Visa	1
+CA Amex	14
+CA Diners	3
+CA Mastercard	18
+CA Visa	31
+CO Diners	1
+CO Mastercard	4
+CO Visa	6
+CT Amex	3
+CT Mastercard	2
+CT Visa	4
+Catalonia Amex	2
+Catalonia Visa	1
+Ceara Mastercard	1
+Central Bohemia Visa	1
+Chisinau Visa	1
+Cork Diners	3
+Cork Mastercard	1
+Cork Visa	6
+DC Amex	1
+DC Mastercard	1
+DC Visa	1
+DE Mastercard	1
+Distrito Nacional Diners	1
+Dubayy Visa	5
+Dublin Diners	3
+Dublin Mastercard	6
+Dublin Visa	13
+East Bohemia Visa	1
+England Amex	5
+England Diners	14
+England Mastercard	21
+England Visa	46
+Etela-Suomen Laani Mastercard	1
+FL Amex	7
+FL Diners	2
+FL Mastercard	8
+FL Visa	12
+Franche-Comte Diners	1
+Franche-Comte Visa	1
+Frederiksborg Visa	3
+Freeport Visa	1
+GA Amex	8
+GA Diners	3
+GA Mastercard	3
+GA Visa	7
+Gauteng Mastercard	2
+Gauteng Visa	1
+Gelderland Visa	1
+General Santos Mastercard	1
+Geneve Amex	1
+Geneve Mastercard	2
+Geneve Visa	4
+Georgia Visa	1
+Groningen Mastercard	2
+Guangdong Visa	1
+Guatemala Visa	1
+HI Amex	2
+HI Diners	1
+HI Mastercard	3
+HI Visa	3
+Hainaut Visa	1
+Hamburg Mastercard	1
+Hamilton Visa	1
+Haryana Amex	1
+Heredia Diners	1
+Hessen Amex	1
+Hessen Mastercard	1
+Hordaland Visa	2
+IA Mastercard	2
+IA Visa	1
+ID Diners	1
+ID Visa	1
+IL Amex	1
+IL Mastercard	6
+IL Visa	9
+IN Mastercard	1
+IN Visa	1
+Ile-de-France Diners	1
+Ile-de-France Visa	7
+Istanbul Visa	5
+Ita-Suomen Laani Mastercard	1
+Izmir Visa	1
+KS Visa	2
+KY Mastercard	2
+Kerry Visa	1
+Kiev Visa	1
+Kilkenny Diners	1
+Kobenhavn Mastercard	5
+Kobenhavn Visa	2
+Krung Thep Mastercard	1
+Kuala Lumpur Mastercard	1
+KwaZulu-Natal Mastercard	1
+KwaZulu-Natal Visa	1
+LA Mastercard	2
+Lazio Visa	1
+Limerick Visa	2
+Lombardy Visa	4
+Lorraine Diners	1
+Louth Visa	1
+Lower Austria Mastercard	1
+Lower Austria Visa	1
+Lower Saxony Mastercard	1
+Lower Saxony Visa	2
+Luxembourg Visa	1
+MA Amex	1
+MA Mastercard	4
+MA Visa	8
+MD Amex	2
+MD Mastercard	3
+MD Visa	10
+ME Mastercard	2
+MI Mastercard	2
+MI Visa	9
+MN Diners	1
+MN Mastercard	3
+MN Visa	6
+MO Visa	1
+MS Visa	2
+MT Visa	2
+Madrid Mastercard	2
+Madrid Visa	3
+Manitoba Mastercard	1
+Mayo Visa	1
+Mazowieckie Visa	1
+Meath Diners	1
+Meath Mastercard	2
+Meath Visa	1
+Michigan Visa	1
+Minas Gerais Mastercard	1
+Moscow City Amex	1
+Murcia Amex	1
+Murcia Visa	1
+NC Mastercard	2
+NC Visa	5
+NE Mastercard	1
+NH Mastercard	1
+NJ Amex	3
+NJ Diners	4
+NJ Mastercard	6
+NJ Visa	6
+NM Visa	1
+NV Amex	3
+NV Diners	1
+NV Visa	1
+NY Amex	5
+NY Diners	10
+NY Mastercard	14
+NY Visa	12
+Neuchatel Visa	1
+New Providence Visa	1
+New South Wales Amex	1
+New South Wales Diners	1
+New South Wales Mastercard	4
+New South Wales Visa	5
+Noord-Brabant Amex	1
+Noord-Holland Amex	1
+Noord-Holland Mastercard	3
+Noord-Holland Visa	3
+Nordrhein-Westfalen Diners	1
+Nordrhein-Westfalen Mastercard	1
+Northern Ireland Mastercard	1
+Northern Ireland Visa	2
+Northwest Territories Diners	1
+OH Amex	1
+OH Mastercard	3
+OH Visa	3
+OR Mastercard	1
+OR Visa	1
+Ontario Amex	1
+Ontario Diners	1
+Ontario Mastercard	5
+Ontario Visa	20
+Oslo Diners	2
+Oslo Visa	4
+Ostergotland Visa	1
+PA Amex	4
+PA Mastercard	1
+PA Visa	6
+Pais Vasco Visa	1
+Pays de la Loire Amex	1
+Pest Visa	1
+Phuket Visa	1
+Pomorskie Visa	1
+Prague Visa	1
+Provence-Alpes-Cote d'Azur Diners	1
+Provence-Alpes-Cote d'Azur Mastercard	1
+Provence-Alpes-Cote d'Azur Visa	2
+Quebec Diners	2
+Quebec Mastercard	1
+Quebec Visa	5
+Queensland Mastercard	3
+Queensland Visa	7
+RI Visa	3
+Rhineland-Palatinate Mastercard	1
+Rhineland-Palatinate Visa	2
+Rhone-Alpes Amex	1
+Rhone-Alpes Mastercard	3
+Rhone-Alpes Visa	3
+Riga Mastercard	1
+Rio Grande do Sul Visa	1
+Rogaland Mastercard	3
+Rogaland Visa	1
+SC Amex	1
+SC Mastercard	1
+SC Visa	2
+Saarland Mastercard	1
+Santa Catarina Amex	1
+Sao Paulo Mastercard	1
+Sardinia Mastercard	1
+Saskatchewan Amex	1
+Saskatchewan Diners	1
+Saxony Mastercard	1
+Schwyz Visa	1
+Scotland Mastercard	2
+Scotland Visa	7
+Sicilia Diners	3
+Skane Visa	1
+Sogn og Fjordane Visa	1
+Soul-t'ukpyolsi Visa	1
+South Australia Visa	1
+St Gallen Mastercard	1
+Staden Kobenhavn Visa	1
+Stara Zagora Mastercard	1
+Stockholm Amex	3
+Stockholm Mastercard	3
+Stockholm Visa	3
+Storstrom Visa	2
+TN Diners	2
+TN Mastercard	5
+TN Visa	4
+TX Amex	2
+TX Diners	2
+TX Mastercard	14
+TX Visa	19
+Taranaki Visa	2
+Tasmania Visa	1
+Tel Aviv Mastercard	1
+Thuringia Diners	1
+Thuringia Visa	1
+Ticino Amex	1
+Ticino Visa	1
+Tipperary Visa	2
+Tokyo Amex	1
+Tokyo Visa	1
+Tuscany Diners	1
+Tuscany Mastercard	1
+Tuscany Visa	2
+Tyrol Mastercard	1
+UT Diners	1
+UT Visa	4
+Upper Normandy Visa	1
+Uppsala Mastercard	1
+Utrecht Mastercard	1
+VA Amex	7
+VA Mastercard	8
+VA Visa	15
+VI Visa	1
+VT Amex	2
+Vasterbotten Visa	1
+Vaud Diners	1
+Vaud Mastercard	5
+Vaud Visa	2
+Veneto Amex	1
+Veneto Mastercard	1
+Vestfold Visa	2
+Vestsjalland Visa	1
+Victoria Amex	1
+Victoria Mastercard	3
+Victoria Visa	5
+Vienna Mastercard	2
+Vienna Visa	2
+Virginia Visa	1
+WA Amex	2
+WA Mastercard	2
+WA Visa	10
+WI Diners	1
+WI Visa	4
+Wales Visa	2
+Waterford Visa	2
+Western Australia Diners	1
+Western Australia Mastercard	2
+Western Australia Visa	3
+Westmeath Visa	1
+Wicklow Visa	2
+Yukon Territory Mastercard	1
+Zug Amex	1
+Zug Mastercard	1
+Zuid-Holland Amex	1
+Zuid-Holland Diners	1
+Zuid-Holland Mastercard	8
+Zurich Mastercard	2
+Zurich Visa	6

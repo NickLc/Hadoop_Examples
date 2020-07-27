@@ -1,0 +1,347 @@
+ ,Diners,	1200
+ ,Mastercard,	2400
+ ,Visa,	8400
+,Amex,	1200
+AK,Amex,	1200
+AK,Mastercard,	1200
+AK,Visa,	6000
+AL,Visa,	3600
+AR,Visa,	9900
+AZ,Amex,	2400
+AZ,Diners,	1200
+AZ,Mastercard,	9650
+AZ,Visa,	3600
+Aargau,Mastercard,	1200
+Aargau,Visa,	3600
+Abu Zaby,Diners,	1200
+Al Manamah,Visa,	1200
+Alberta,Amex,	4800
+Alberta,Diners,	1200
+Alberta,Mastercard,	6000
+Alberta,Visa,	14400
+Alsace,Visa,	1200
+Andalucia,Mastercard,	1200
+Andhra Pradesh,Diners,	1200
+Antwerpen,Visa,	1200
+Arhus,Visa,	1200
+Attiki,Visa,	1200
+Auckland,Visa,	4800
+Bacs-Kiskun,Mastercard,	1200
+Baden-Wurttemberg,Diners,	1200
+Baden-Wurttemberg,Mastercard,	2400
+Baden-Wurttemberg,Visa,	2400
+Basel-Country,Mastercard,	1200
+Basel-Country,Visa,	3600
+Basel-Town,Visa,	1200
+Bayern,Amex,	1200
+Bayern,Mastercard,	3600
+Bayern,Visa,	4800
+Berlin,Mastercard,	1200
+Bern,Visa,	3600
+Black River,Visa,	3600
+Bohol,Visa,	1200
+British Columbia,Amex,	1200
+British Columbia,Diners,	4800
+British Columbia,Mastercard,	13200
+British Columbia,Visa,	9600
+Brittany,Amex,	1200
+Brittany,Visa,	7500
+Brussels (Bruxelles),Amex,	2400
+Brussels (Bruxelles),Mastercard,	1200
+Brussels (Bruxelles),Visa,	6000
+Bucuresti,Mastercard,	1200
+Budapest,Diners,	1200
+Buenos Aires,Amex,	1200
+Buskerud,Visa,	1200
+CA,Amex,	26400
+CA,Diners,	3600
+CA,Mastercard,	28800
+CA,Visa,	54550
+CO,Diners,	1200
+CO,Mastercard,	7200
+CO,Visa,	19000
+CT,Amex,	3600
+CT,Mastercard,	2400
+CT,Visa,	4800
+Catalonia,Amex,	4800
+Catalonia,Visa,	1200
+Ceara,Mastercard,	1200
+Central Bohemia,Visa,	3600
+Chisinau,Visa,	1200
+Cork,Diners,	6000
+Cork,Mastercard,	1200
+Cork,Visa,	7200
+DC,Amex,	1200
+DC,Mastercard,	3600
+DC,Visa,	1200
+DE,Mastercard,	1200
+Distrito Nacional,Diners,	1200
+Dubayy,Visa,	10800
+Dublin,Diners,	3600
+Dublin,Mastercard,	7200
+Dublin,Visa,	18000
+East Bohemia,Visa,	1200
+England,Amex,	6000
+England,Diners,	19200
+England,Mastercard,	30000
+England,Visa,	64800
+Etela-Suomen Laani,Mastercard,	1200
+FL,Amex,	13200
+FL,Diners,	7200
+FL,Mastercard,	9600
+FL,Visa,	21600
+Franche-Comte,Diners,	1200
+Franche-Comte,Visa,	1200
+Frederiksborg,Visa,	3600
+Freeport,Visa,	1200
+GA,Amex,	10200
+GA,Diners,	3600
+GA,Mastercard,	3600
+GA,Visa,	10800
+Gauteng,Mastercard,	2400
+Gauteng,Visa,	1200
+Gelderland,Visa,	3600
+General Santos,Mastercard,	1200
+Geneve,Amex,	1200
+Geneve,Mastercard,	2400
+Geneve,Visa,	7200
+Georgia,Visa,	1200
+Groningen,Mastercard,	2400
+Guangdong,Visa,	1200
+Guatemala,Visa,	1200
+HI,Amex,	4800
+HI,Diners,	1200
+HI,Mastercard,	3600
+HI,Visa,	3600
+Hainaut,Visa,	1200
+Hamburg,Mastercard,	1200
+Hamilton,Visa,	1200
+Haryana,Amex,	1200
+Heredia,Diners,	1200
+Hessen,Amex,	3600
+Hessen,Mastercard,	1200
+Hordaland,Visa,	2400
+IA,Mastercard,	2400
+IA,Visa,	1200
+ID,Diners,	1200
+ID,Visa,	1200
+IL,Amex,	3600
+IL,Mastercard,	7200
+IL,Visa,	13200
+IN,Mastercard,	1200
+IN,Visa,	3600
+Ile-de-France,Diners,	1200
+Ile-de-France,Visa,	15600
+Istanbul,Visa,	6000
+Ita-Suomen Laani,Mastercard,	1200
+Izmir,Visa,	1200
+KS,Visa,	4800
+KY,Mastercard,	2400
+Kerry,Visa,	1200
+Kiev,Visa,	1200
+Kilkenny,Diners,	1200
+Kobenhavn,Mastercard,	6000
+Kobenhavn,Visa,	2400
+Krung Thep,Mastercard,	3600
+Kuala Lumpur,Mastercard,	1200
+KwaZulu-Natal,Mastercard,	1200
+KwaZulu-Natal,Visa,	7500
+LA,Mastercard,	8700
+Lazio,Visa,	1200
+Limerick,Visa,	2400
+Lombardy,Visa,	7200
+Lorraine,Diners,	1200
+Louth,Visa,	1200
+Lower Austria,Mastercard,	1200
+Lower Austria,Visa,	1200
+Lower Saxony,Mastercard,	1200
+Lower Saxony,Visa,	4800
+Luxembourg,Visa,	1200
+MA,Amex,	1200
+MA,Mastercard,	7200
+MA,Visa,	9600
+MD,Amex,	2400
+MD,Mastercard,	6000
+MD,Visa,	14400
+ME,Mastercard,	2400
+MI,Mastercard,	2400
+MI,Visa,	13200
+MN,Diners,	1200
+MN,Mastercard,	6000
+MN,Visa,	12000
+MO,Visa,	1200
+MS,Visa,	11100
+MT,Visa,	2400
+Madrid,Mastercard,	2400
+Madrid,Visa,	3600
+Manitoba,Mastercard,	1200
+Mayo,Visa,	1200
+Mazowieckie,Visa,	1200
+Meath,Diners,	1200
+Meath,Mastercard,	8700
+Meath,Visa,	1200
+Michigan,Visa,	1200
+Minas Gerais,Mastercard,	1200
+Moscow City,Amex,	3600
+Murcia,Amex,	1200
+Murcia,Visa,	1200
+NC,Mastercard,	2400
+NC,Visa,	6000
+NE,Mastercard,	1200
+NH,Mastercard,	1200
+NJ,Amex,	3600
+NJ,Diners,	4800
+NJ,Mastercard,	7200
+NJ,Visa,	7200
+NM,Visa,	1200
+NV,Amex,	3600
+NV,Diners,	1200
+NV,Visa,	1200
+NY,Amex,	12300
+NY,Diners,	12000
+NY,Mastercard,	17700
+NY,Visa,	19200
+Neuchatel,Visa,	1200
+New Providence,Visa,	1200
+New South Wales,Amex,	1200
+New South Wales,Diners,	1200
+New South Wales,Mastercard,	9600
+New South Wales,Visa,	8400
+Noord-Brabant,Amex,	1200
+Noord-Holland,Amex,	1200
+Noord-Holland,Mastercard,	3600
+Noord-Holland,Visa,	6000
+Nordrhein-Westfalen,Diners,	1200
+Nordrhein-Westfalen,Mastercard,	3600
+Northern Ireland,Mastercard,	1200
+Northern Ireland,Visa,	2400
+Northwest Territories,Diners,	1200
+OH,Amex,	1200
+OH,Mastercard,	3600
+OH,Visa,	3600
+OR,Mastercard,	1200
+OR,Visa,	1200
+Ontario,Amex,	1200
+Ontario,Diners,	1200
+Ontario,Mastercard,	8400
+Ontario,Visa,	36000
+Oslo,Diners,	2400
+Oslo,Visa,	7200
+Ostergotland,Visa,	3600
+PA,Amex,	9600
+PA,Mastercard,	1200
+PA,Visa,	9600
+Pais Vasco,Visa,	1200
+Pays de la Loire,Amex,	1200
+Pest,Visa,	1200
+Phuket,Visa,	1200
+Pomorskie,Visa,	1200
+Prague,Visa,	1200
+Provence-Alpes-Cote d'Azur,Diners,	1200
+Provence-Alpes-Cote d'Azur,Mastercard,	3600
+Provence-Alpes-Cote d'Azur,Visa,	2400
+Quebec,Diners,	2400
+Quebec,Mastercard,	1200
+Quebec,Visa,	6000
+Queensland,Mastercard,	3600
+Queensland,Visa,	10800
+RI,Visa,	3600
+Rhineland-Palatinate,Mastercard,	1200
+Rhineland-Palatinate,Visa,	2400
+Rhone-Alpes,Amex,	3600
+Rhone-Alpes,Mastercard,	6000
+Rhone-Alpes,Visa,	3600
+Riga,Mastercard,	1200
+Rio Grande do Sul,Visa,	1200
+Rogaland,Mastercard,	3600
+Rogaland,Visa,	1200
+SC,Amex,	1200
+SC,Mastercard,	3600
+SC,Visa,	2400
+Saarland,Mastercard,	1200
+Santa Catarina,Amex,	1200
+Sao Paulo,Mastercard,	7500
+Sardinia,Mastercard,	3600
+Saskatchewan,Amex,	3600
+Saskatchewan,Diners,	3600
+Saxony,Mastercard,	1200
+Schwyz,Visa,	1200
+Scotland,Mastercard,	2400
+Scotland,Visa,	13200
+Sicilia,Diners,	16200
+Skane,Visa,	3600
+Sogn og Fjordane,Visa,	1200
+Soul-t'ukpyolsi,Visa,	1200
+South Australia,Visa,	1200
+St Gallen,Mastercard,	3600
+Staden Kobenhavn,Visa,	1200
+Stara Zagora,Mastercard,	1200
+Stockholm,Amex,	6000
+Stockholm,Mastercard,	3600
+Stockholm,Visa,	3600
+Storstrom,Visa,	2400
+TN,Diners,	2400
+TN,Mastercard,	6000
+TN,Visa,	11100
+TX,Amex,	2400
+TX,Diners,	2400
+TX,Mastercard,	25500
+TX,Visa,	25200
+Taranaki,Visa,	2400
+Tasmania,Visa,	3600
+Tel Aviv,Mastercard,	1200
+Thuringia,Diners,	1200
+Thuringia,Visa,	1200
+Ticino,Amex,	3600
+Ticino,Visa,	1200
+Tipperary,Visa,	2400
+Tokyo,Amex,	1200
+Tokyo,Visa,	1200
+Tuscany,Diners,	1200
+Tuscany,Mastercard,	1200
+Tuscany,Visa,	2400
+Tyrol,Mastercard,	3600
+UT,Diners,	1200
+UT,Visa,	11100
+Upper Normandy,Visa,	1200
+Uppsala,Mastercard,	1200
+Utrecht,Mastercard,	3600
+VA,Amex,	8000
+VA,Mastercard,	12000
+VA,Visa,	20400
+VI,Visa,	3600
+VT,Amex,	7200
+Vasterbotten,Visa,	1200
+Vaud,Diners,	1200
+Vaud,Mastercard,	10800
+Vaud,Visa,	7200
+Veneto,Amex,	3600
+Veneto,Mastercard,	1200
+Vestfold,Visa,	2400
+Vestsjalland,Visa,	1200
+Victoria,Amex,	1200
+Victoria,Mastercard,	3600
+Victoria,Visa,	8400
+Vienna,Mastercard,	2400
+Vienna,Visa,	2400
+Virginia,Visa,	1200
+WA,Amex,	2400
+WA,Mastercard,	4800
+WA,Visa,	16800
+WI,Diners,	1200
+WI,Visa,	4800
+Wales,Visa,	4800
+Waterford,Visa,	2400
+Western Australia,Diners,	3600
+Western Australia,Mastercard,	4800
+Western Australia,Visa,	3600
+Westmeath,Visa,	1200
+Wicklow,Visa,	2400
+Yukon Territory,Mastercard,	3600
+Zug,Amex,	1200
+Zug,Mastercard,	3600
+Zuid-Holland,Amex,	1200
+Zuid-Holland,Diners,	1200
+Zuid-Holland,Mastercard,	20700
+Zurich,Mastercard,	4800
+Zurich,Visa,	12000
