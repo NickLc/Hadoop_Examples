@@ -1,0 +1,106 @@
+Argentina Amex	1
+Australia Amex	2
+Australia Diners	2
+Australia Mastercard	12
+Australia Visa	22
+Austria Mastercard	4
+Austria Visa	3
+Bahrain Visa	1
+Belgium Amex	2
+Belgium Mastercard	1
+Belgium Visa	5
+Bermuda Visa	1
+Brazil Amex	1
+Brazil Mastercard	3
+Brazil Visa	1
+Bulgaria Mastercard	1
+CO 000"	1
+Canada Amex	5
+Canada Diners	10
+Canada Mastercard	18
+Canada Visa	43
+Cayman Isls Mastercard	1
+China Visa	1
+Costa Rica Diners	1
+Czech Republic Visa	3
+Denmark Mastercard	5
+Denmark Visa	10
+Dominican Republic Diners	1
+Finland Mastercard	2
+France Amex	3
+France Diners	4
+France Mastercard	4
+France Visa	16
+Germany Amex	2
+Germany Diners	3
+Germany Mastercard	11
+Germany Visa	9
+Greece Visa	1
+Guatemala Visa	1
+Hong Kong Mastercard	1
+Hungary Diners	1
+Hungary Mastercard	1
+Hungary Visa	1
+Iceland Visa	1
+India Amex	1
+India Diners	1
+Ireland Diners	8
+Ireland Mastercard	9
+Ireland Visa	32
+Israel Mastercard	1
+Italy Amex	1
+Italy Diners	4
+Italy Mastercard	3
+Italy Visa	7
+Japan Amex	1
+Japan Visa	1
+Jersey Diners	1
+Kuwait Amex	1
+Latvia Mastercard	1
+Luxembourg Visa	1
+Malaysia Mastercard	1
+Malta Visa	2
+Mauritius Visa	1
+Moldova Visa	1
+Monaco Visa	2
+Netherlands Amex	3
+Netherlands Diners	1
+Netherlands Mastercard	14
+Netherlands Visa	4
+New Zealand Visa	6
+Norway Diners	2
+Norway Mastercard	3
+Norway Visa	11
+Philippines Mastercard	1
+Philippines Visa	1
+Poland Visa	2
+Romania Mastercard	1
+Russia Amex	1
+South Africa Mastercard	3
+South Africa Visa	2
+South Korea Visa	1
+Spain Amex	3
+Spain Mastercard	3
+Spain Visa	6
+Sweden Amex	3
+Sweden Mastercard	4
+Sweden Visa	6
+Switzerland Amex	3
+Switzerland Diners	1
+Switzerland Mastercard	13
+Switzerland Visa	19
+Thailand Mastercard	1
+Thailand Visa	1
+The Bahamas Visa	2
+Turkey Visa	6
+Ukraine Visa	1
+United Arab Emirates Diners	1
+United Arab Emirates Visa	5
+United Kingdom Amex	5
+United Kingdom Diners	14
+United Kingdom Mastercard	24
+United Kingdom Visa	57
+United States Amex	72
+United States Diners	34
+United States Mastercard	131
+United States Visa	225
